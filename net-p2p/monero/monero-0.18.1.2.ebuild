@@ -29,7 +29,7 @@ REQUIRED_USE="|| ( daemon tools wallet-cli wallet-rpc )"
 RESTRICT="test"
 
 DEPEND="
-	dev-libs/boost-1.80.0-r1:*[nls,threads(+)]
+	dev-libs/boost:1.80.0-r1=[nls,threads(+)]
 	dev-libs/libsodium:=
 	dev-libs/openssl:=
 	dev-libs/rapidjson
