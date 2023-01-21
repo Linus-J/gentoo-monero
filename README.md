@@ -28,6 +28,16 @@ echo '*/*::monero ~amd64' >> /etc/portage/package.accept_keywords
 emerge -a net-p2p/monero::monero 
 ```
 
+## Package Upgrades
+```bash
+# Sync the local repo with the current overlay.
+emaint sync -r monero 
+# The above command will execute during a standard emaint -a sync. Only need to use when specifically updating this repo.
+
+# Upgrade packages as usual.
+emerge -avuDN @world
+```
+
 ## Package removal
 ```bash
 # Deselect package via portage and remove unused dependencies safely
