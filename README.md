@@ -1,6 +1,6 @@
 # Gentoo Monero Overlay
 
-Up-to-date fork of the gentoo overlay of the monero software as of 20/12/2022 (v0.18.1.2).
+Up-to-date fork of the gentoo overlay of the monero software as of 22/02/2023 (v0.18.1.2).
 
 ## Getting Started
 
