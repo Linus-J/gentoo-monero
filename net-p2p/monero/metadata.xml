@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <!-- maintainer-needed -->
+  <maintainer type="person">
+    <email>linusj@tutanota.com</email>
+    <name>Linus J</name>
+  </maintainer>
   <longdescription lang="en">
     Monero is a private, secure, untraceable, decentralised digital
     currency. You are your bank, you control your funds, and nobody
