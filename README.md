@@ -2,6 +2,8 @@
 
 Up-to-date fork of the gentoo overlay of the monero software as of 01/Mar/2023 (v0.18.2.0).
 
+<img src="https://github.com/Linus-J/repo-images/blob/main/gentoo-monero/gentoo-xmr-logo.png" alt="Pokerbot" width="500"/>
+
 ## Getting Started
 
 ### Manual
