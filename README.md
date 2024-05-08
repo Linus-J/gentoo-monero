@@ -1,6 +1,6 @@
 # Gentoo Monero Overlay
 
-Up-to-date fork of the gentoo overlay of the monero software as of 31/Oct/2023 (v0.18.3.1).
+Up-to-date fork of the gentoo overlay of the monero software as of 08/May/2024 (v0.18.3.3).
 
 <img src="https://github.com/Linus-J/repo-images/blob/main/gentoo-monero/gentoo-xmr-logo.png" alt="xmrgentoo" width="500"/>
 
